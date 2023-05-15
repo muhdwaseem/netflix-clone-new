@@ -3,7 +3,14 @@ import ArrowForwardIosOutlinedIcon from '@mui/icons-material/ArrowForwardIosOutl
 import Listitems from '../listitems/Listitems';
 import ArrowBackIosOutlinedIcon from '@mui/icons-material/ArrowBackIosOutlined';
 import  './list.scss'
+
 function List() {
+
+
+
+
+
+
 const [slider, setslider] = useState(0)
 const [ismoved, setismoved] = useState(false)
   const listref = useRef()

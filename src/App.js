@@ -8,7 +8,7 @@ import Watch from './home/Watch';
 function App() {
   return (
     <>
-    {/* <Home/> */}
+    <Home/>
      {/* <Watch/> */}
      {/* <Register/> */}
      {/* <Login/> */}
